@@ -1,0 +1,26 @@
+1. Data Cleaning and Preparation  
+   Data cleaning and preparation involves standardizing dates, addressing missing values, and ensuring correct formats for each column. This foundational step guarantees that all subsequent analyses are based on accurate and consistent data.
+
+2. Trend Analysis of Closing Prices
+   Examining closing prices over time reveals overall market momentum, highlighting periods of sustained growth or slowdown and helping to identify long-term directional shifts.
+
+3. Volume Pattern Analysis
+   Investigating trading volume uncovers levels of market activity—high volume often signals strong investor interest, while low volume may indicate consolidation or hesitation.
+
+4. Price–Volume Correlation 
+   Comparing price movements with volume changes confirms whether significant price shifts are backed by genuine trading activity, aiding in the distinction between real breakouts and false signals.
+
+5.Seasonal Effect Identification  
+   Grouping returns by month uncovers recurring patterns, allowing for a better understanding of which months tend to perform stronger or weaker, and informing timing strategies.
+
+6. Annual Performance Evaluation  
+   Calculating year-over-year returns highlights the strongest and weakest years, offering insight into how the stock responds to varying market conditions and external events.
+
+7. Extreme Period Analysis  
+   Identifying the best and worst periods in terms of percentage gain or loss provides crucial information for designing effective risk management and stop-loss strategies.
+
+8. Key Statistics Summarization
+   Summarizing essential metrics—such as average close, highest high, lowest low, and total volume—delivers a concise snapshot of the stock’s overall behavior and volatility.
+
+9. Interactive Dashboard Creation 
+   Compiling all findings into an interactive dashboard with filters and visualizations enables stakeholders of any technical background to explore the data and derive actionable insights.
